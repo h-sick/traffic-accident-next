@@ -2,6 +2,8 @@
 
 This project is developed by using `MERN` stack
 
+- React, Next
+
 ## Getting Started
 
 First, run the development server:
